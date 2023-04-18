@@ -1,0 +1,51 @@
+p {
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.VideoTitle {
+  font-size: 18px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.VideoStats {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.VideoAuthor {
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-bottom: 20px;
+}
+
+.VideoDescription {
+  font-size: 14px;
+  width: 280px;
+  color: rgb(96, 96, 96);
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+.AppleLogo {
+  margin-top: 0px;
+}
+
+.AppleAd {
+  background-color: rgb(227, 65, 64);
+  color: white;
+  font-size: 14px;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 18px;
+  padding-top: 18px;
+}
+
+.ShopLink:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
